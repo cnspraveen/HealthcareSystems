@@ -8,7 +8,8 @@ public class NiceClass {
 		System.out.println("Nice Class updated from Github.....");
 		System.out.println("updated from Eclipse........");
 		System.out.println("updated from Github Online Repository(HealthcareSystems)........");
-		System.out.println("Update in SubBranch of HelathcareSystems.....");
+		System.out.println("Update in SubBranch of HealthcareSystems.....");
+		System.out.println("Update in SubBranch of HealthcareSystems in Github.....");
 
 	}
 
